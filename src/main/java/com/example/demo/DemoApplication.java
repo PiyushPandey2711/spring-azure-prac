@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
+		System.out.println("Make Change to trynlearn");
 		System.out.println("Application file");
 		SpringApplication.run(DemoApplication.class, args);
 	}
